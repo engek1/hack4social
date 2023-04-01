@@ -1,0 +1,21 @@
+.box {
+  width: 100%;
+  background-color: #f3c156;
+  border: none;
+  padding: 40px 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  display: block;
+  cursor: pointer;
+}
+
+.box > span {
+  font-size: xx-large;
+  text-align: center;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
